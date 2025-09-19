@@ -1,47 +1,52 @@
 # Company Overview – One Pager
 
 ## Who We Are
-An **AI First Product Development Consultancy** that empowers organizations to solve business problems with SaaS software applications. Our AI-first approach enables unprecedented speed and dramatically lower costs, fundamentally changing ROI calculations and expanding the range of problems that can be practically addressed with custom software solutions.
+An **AI Workforce Empowerment Consultancy** that amplifies existing workforce capabilities by integrating AI into workflows. We help companies achieve specific business outcomes—increased productivity, efficiency, capacity, quality, and job satisfaction—by redesigning how people work and creating solutions that support these new workflows.
+
+## The Power of "And"
+Unlike consultancies that only recommend OR tech firms that only build, we do BOTH. We analyze workflows AND build solutions AND train people AND create methodologies. We close the loop from concept to measurable business impact through whatever combination of deliverables clients need.
 
 ---
 
 ## Mission
-To empower organizations to solve business problems with SaaS software applications through user-centered design methodology that starts with understanding how people work, designs optimized workflows, and creates software solutions that integrate seamlessly into those workflows—all at revolutionary speed and cost.
+To empower organizations to amplify their existing workforce capabilities through human-centered workflow redesign that leverages AI. We iterate continuously, fit flexibly into client processes, and get our hands dirty to deliver measurable results—not just recommendations.
 
 ---
 
 ## What We Do
-- **Discovery & Research**: Deep problem understanding through user research, workflow analysis, and JTBD frameworks. We study how people currently work and identify pain points.
-- **Workflow Design**: Create new, optimized workflows that integrate software solutions seamlessly into users' existing work patterns and processes.
-- **Prototyping**: Rapid, multi-fidelity prototypes using AI-accelerated development with Bubble, Coda, and custom code to bring workflow visions to life.
-- **Validation & Iteration**: User testing with real workflows, gathering feedback, and iterating both software and workflow design as understanding evolves.
-- **Implementation**: Flexible delivery options—from design hand-off to pilot-ready or full release with ongoing workflow optimization.
-- **Sustainment**: Monitoring workflow adoption, optimization based on usage patterns, and planned transition.
+- **Challenge Identification & Research**: Help organizations identify specific business challenges, then conduct deep workflow analysis to understand how people currently work and identify AI integration opportunities.
+- **Workflow Redesign**: Create optimized workflows that leverage AI capabilities to address specific business outcomes—productivity, efficiency, capacity, quality, or job satisfaction.
+- **Solution Analysis & Recommendation**: Analyze alternatives (commercial AI tools, custom GPTs, custom applications, training programs) and facilitate decision-making based on impact and sustainability.
+- **Prototyping & Validation**: Rapid workflow testing and solution validation using AI-accelerated development.
+- **Flexible Implementation**: Whatever clients need—training programs, methodology development, custom applications, process documentation, or hybrid approaches.
+- **Adoption & Optimization**: Monitor workflow adoption, measure business impact, and optimize based on real usage patterns.
 
 ---
 
 ## Why Choose Us
-- **ROI Game-Changer**: AI-first approach enables unprecedented speed and dramatically lower costs, making custom SaaS solutions viable for problems previously considered uneconomical.
-- **User-Centered Workflow Design**: We don't just build software—we redesign how people work, ensuring seamless integration and higher adoption rates.
-- **Revolutionary Speed & Cost**: From idea to working prototype in weeks, not months, at costs previously unimaginable.
-- **End-to-End Capability**: From problem research and workflow design to release and adoption monitoring.
-- **Domain Expertise**: Learning Tech, IoT, Drones, Financial Services with deep understanding of industry workflows.
+- **Human-Centered AI Integration**: We combine deep UX/human factors expertise with AI-first execution to fundamentally redesign how people work—unlike consultancies that only strategize or tech firms that only build.
+- **Comprehensive Solution Space**: We analyze the full spectrum of solutions and build whatever's needed—from training programs to custom applications to hybrid approaches.
+- **Measurable Business Outcomes**: Focus on specific, measurable improvements rather than generic "digital transformation."
+- **Revolutionary Speed & Cost**: AI-first approach makes workforce empowerment viable for problems previously considered uneconomical.
+- **End-to-End Results**: We close the loop from concept to measurable business impact—no handoffs, no gaps.
+- **Process Flexibility**: We deliver concepts, specs, documentation, designs, working products, training programs, or any combination that fits your needs.
+- **Domain Expertise**: Learning Tech, IoT, Drones, Financial Services with deep understanding of industry-specific workflow patterns.
 
 ---
 
 ## Engagement Options
-- **Fixed Packages**: e.g., 6-week discovery + prototype.  
-- **Project-Based**: Deliverables and milestones.  
-- **Retainers**: Ongoing advisory + development.  
-- **Outcome-Based**: For select clients tied to success metrics.
+- **Direct Clients**: Companies wanting to empower their existing workforce with AI integration and workflow redesign.
+- **Product Companies**: Startups and companies developing AI-empowered solutions for their customers.
+- **Flexible Delivery**: Fixed packages, project-based milestones, ongoing retainers, or outcome-based pricing.
+- **Custom Combinations**: Whatever fits your process—from concepts and training to full custom development.
 
 ---
 
 ## Example Outcomes
-- AI-driven sales enablement platform → 40% faster onboarding.  
-- IoT dashboard → reduced downtime by 25%.  
-- Drone fleet management tool → cut planning time by 60%.  
-- SaaS startup validation → $2M seed funding secured.
+- **Tech Support Team**: Redesigned workflows with AI assistance → 50% faster issue resolution + higher job satisfaction.
+- **Sales Team**: Custom AI tools + training program → 40% faster prospect qualification + reduced administrative burden.
+- **Operations Team**: Workflow optimization + AI integration → 25% capacity increase with same headcount.
+- **Product Development**: AI-empowered customer research workflows → 60% faster insight generation + higher quality decisions.
 
 ---
 

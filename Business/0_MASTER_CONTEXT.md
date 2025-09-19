@@ -5,39 +5,53 @@ This document provides a **single point of reference** for AI assistants to help
 ---
 
 ## Business Overview
-- **Type**: AI First Product Development Consultancy.  
-- **Mission**: Empower organizations to solve business problems with SaaS software applications. Our AI-first approach enables us to create these apps at unprecedented speed and low cost, fundamentally changing ROI calculations and expanding the range of problems that can be practically addressed with custom software solutions.  
-- **Approach**: User-centered design methodology combining human-led strategy with AI-powered execution. We start by researching the problem, understanding the work done by people involved, designing new workflows that integrate the new tool, then creating and iterating the solution based on evolving workflow understanding.  
-- **Founder**: 30+ years experience in product design, product management, prototyping, and SaaS development.
+- **Type**: AI Workforce Empowerment Consultancy.  
+- **Mission**: Empower organizations to amplify their existing workforce capabilities by integrating AI into workflows. We help companies achieve specific business outcomes—increased productivity, efficiency, capacity, quality, and job satisfaction—by redesigning how people work and creating solutions that support these new workflows.  
+- **The Power of "And"**: Unlike consultancies that only recommend OR tech firms that only build, we do BOTH. We analyze workflows AND build solutions AND train people AND create methodologies. We close the loop from concept to measurable business impact through whatever combination of deliverables clients need—concepts, specs, documentation, designs, working products, training programs, or hybrid approaches.  
+- **Approach**: Human-centered workflow redesign methodology combining deep UX/human factors expertise with AI-first execution. We iterate continuously, fitting flexibly into client processes while maintaining focus on measurable business outcomes. We get our hands dirty and actually deliver results, not just recommendations.  
+- **Founder**: 30+ years experience in product design, product management, prototyping, SaaS development, user experience, usability, and human factors engineering.
 
 ---
 
 ## Core Services
-1. **Discovery & Research**: Deep problem understanding through user research, workflow analysis, and JTBD frameworks. We study how people currently work and identify pain points that software can address.
-2. **Workflow Design**: Create new, optimized workflows that integrate the proposed software solution seamlessly into users' existing work patterns and processes.
-3. **Prototyping**: Rapid, multi-fidelity prototypes using AI-accelerated development with Bubble, Coda, and custom code to bring workflow visions to life.
-4. **Validation & Iteration**: User testing with real workflows, gathering feedback, and iterating both the software and workflow design as understanding evolves.
-5. **Implementation**: Options include design handoff, pilot-ready builds, or full release with ongoing workflow optimization.
-6. **Sustainment & Sunset**: Monitoring workflow adoption, optimization based on usage patterns, and transition planning.
+1. **Challenge Identification & Research**: Help organizations identify and articulate specific business challenges, then conduct deep problem understanding through user research, workflow analysis, and JTBD frameworks. We study how people currently work and identify opportunities for AI-powered improvements.
+2. **Workflow Redesign**: Create new, optimized workflows that leverage AI capabilities to address specific business outcomes—productivity, efficiency, capacity, quality, or job satisfaction.
+3. **Solution Analysis & Recommendation**: Analyze alternative approaches (commercial AI tools, custom GPTs, custom applications, training programs, methodology development) and facilitate decision-making process based on cost, sustainability, and business impact.
+4. **Prototyping & Validation**: Rapid, multi-fidelity prototypes and workflow testing using AI-accelerated development to validate redesigned workflows and solution approaches.
+5. **Implementation**: Diverse implementation options including:
+   - Training programs and methodology development
+   - Custom application development (apps, GPTs, automations)
+   - Process documentation and change management
+   - Hybrid approaches combining multiple solution types
+6. **Adoption & Optimization**: Monitor workflow adoption, measure business impact, and optimize based on usage patterns and evolving needs.
 
 ---
 
 ## Differentiators
-- **AI First**: Embedded AI agents in every phase enable unprecedented speed and dramatically lower costs, fundamentally changing ROI calculations and making custom SaaS solutions viable for a much broader range of business problems.
-- **User-Centered Workflow Design**: We don't just build software—we redesign how people work, ensuring seamless integration and higher adoption rates.
-- **End-to-End Capability**: From problem research and workflow design to release and adoption monitoring.
-- **Revolutionary Speed & Cost**: From idea to working prototype in weeks, not months, at costs previously unimaginable.
-- **Iterative Methodology**: Continuous refinement of both software and workflows based on real user feedback and evolving understanding.
-- **Flexibility**: Handoff or build-out options to match organizational needs and capabilities.
-- **Domain Expertise**: Learning Tech, IoT, Drones, Financial Services with deep understanding of industry workflows.
+- **Human-Centered AI Integration**: Unlike management consultancies that focus on strategy or AI consultants who focus on technology, we combine deep UX/human factors expertise with AI-first execution to fundamentally redesign how people work.
+- **Comprehensive Solution Space**: We don't just implement AI tools or optimize existing processes—we analyze the full spectrum of solutions (training, custom apps, methodologies, hybrid approaches) and build whatever's needed to support new workflows.
+- **Measurable Business Outcomes**: Focus on specific, measurable improvements in productivity, efficiency, capacity, quality, and job satisfaction rather than generic "digital transformation."
+- **Revolutionary Speed & Cost**: AI-first approach enables unprecedented speed and dramatically lower costs, making workforce empowerment viable for problems previously considered uneconomical.
+- **End-to-End Workflow Expertise**: From challenge identification and workflow research to solution implementation and adoption monitoring.
+- **Flexible Implementation**: Options ranging from training programs and methodology development to custom application development, matching organizational needs and capabilities.
+- **Domain Expertise**: Learning Tech, IoT, Drones, Financial Services with deep understanding of industry-specific workflow patterns and human factors considerations.
 
 ---
 
 ## Target Customers
-- Mid-sized businesses exploring AI.  
-- Corporate innovation teams needing prototypes and validation.  
-- Startups needing MVPs to secure funding.  
-- Specific domains where expertise adds value.
+
+### Direct Clients (Workforce Empowerment)
+- Mid-sized businesses who want to use AI to make their existing teams more effective but don't know how to start.
+- Companies with specific productivity, efficiency, capacity, quality, or satisfaction challenges who recognize the need for workflow redesign.
+- Organizations seeking measurable business outcomes from AI integration rather than generic "digital transformation."
+
+### Product Companies (B2B2C Solutions)
+- Startups developing AI-empowered solutions for specific industries or customer challenges.
+- Companies creating products that help their customers' workforces become more effective.
+- Organizations needing expertise in human-centered AI integration for their product development.
+
+### Industry Focus
+- Learning Tech, IoT, Drones, Financial Services where domain expertise and understanding of industry-specific workflow patterns adds significant value.
 
 ---
 
@@ -76,44 +90,3 @@ Attach this as context when working with an AI assistant. It:
 - Points to the full set of supporting documents.  
 - Ensures continuity and consistency across planning, branding, and execution.  
 
-This Master Context should be updated whenever key documents change, so the assistant always has the latest foundation.
-
----
-
-## AI Prompt Guide
-
-### How to Use the Master Context
-- Attach this document to prompts when asking for business planning help.  
-- It ensures the assistant has background and references without repeating details.
-
-### Prompting Tips
-**Strategic Planning**  
-- “Using the Master Context, refine the GTM strategy for mid-sized businesses in learning tech.”  
-- “Compare pricing models—fixed package vs. retainer—given our AI-first positioning.”  
-
-**Document Expansion**  
-- “Expand the Simple Business Plan with more detail on risks and mitigations.”  
-- “Draft a Website Content Plan aligned with the services described here.”  
-
-**Client-Facing Materials**  
-- “Create a client onboarding guide consistent with the Services & Engagement Model.”  
-- “Write a reusable case study template.”  
-
-**Branding & Positioning**  
-- “Suggest tagline variations for Clearframe, aligning with Differentiators.”  
-- “Develop LinkedIn post ideas highlighting AI First positioning.”  
-
-**Operational Planning**  
-- “Outline an AI Tooling Guide showing how we use AI at each phase.”  
-- “Draft a Process Playbook section for Discovery & Research.”
-
-### Best Practices
-- Be specific: Point to which section or document you want to focus on.  
-- Iterate: Start broad, then refine.  
-- Stay consistent: Use terminology from the Master Context.  
-- Highlight audience: Clarify whether content is for clients, investors, or internal use.
-
-### When to Update
-- Services change.  
-- New documents added (e.g., Website Content Plan).  
-- Branding decisions finalized.  
